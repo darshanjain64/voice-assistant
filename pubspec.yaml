@@ -27,12 +27,19 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  alan: ^0.40.2+1
+  alan_voice: ^3.6.0
   audioplayers: ^0.20.1
+  connectivity: ^3.0.6
+  connectivity_plus: ^2.3.2
   cupertino_icons: ^1.0.4
   flutter:
     sdk: flutter
+  get: ^4.6.5
   google_fonts: ^3.0.1
   http: ^0.13.4
+  internet_connection_checker: ^0.0.1+4
+  provider: ^6.0.3
   velocity_x: ^3.5.1
 
 dev_dependencies:

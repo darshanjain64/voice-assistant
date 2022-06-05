@@ -2,6 +2,6 @@ import 'package:flutter/material.dart';
 
 
 mixin AIColors {
-  static Color primarycolor1 = Color.fromARGB(255, 236, 115, 115);
-  static Color primarycolor2 = Color.fromARGB(255, 157, 77, 242);
+  static Color primarycolor1 = Color(0xFFEC7373);
+  static Color primarycolor2 = Color(0xFF9D4DF2);
 }
